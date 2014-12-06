@@ -40,7 +40,7 @@ SnakeGame.ml (上記記事でプログラミングしたソースコード)
 
 ocamloptコマンドでコンパイルしてから遊びます。
 
-```ocaml
+```
 bash-3.2$ ocamlopt SnakeGame.ml
 bash-3.2$ ./a.out
 
